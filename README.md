@@ -7,13 +7,12 @@ Your ultimate guide to navigating the vast landscape of data science! This repos
  
  ![1_QDmmmgCKwq828aatsvdwcw (1)](https://github.com/Ishikakataria06/DataQuest/assets/147333547/853852ef-7bb6-4356-8070-d282f4cc29b8)
 
- ## Python 
+ ## Python Programming Language 
  
  ![python](https://github.com/Ishikakataria06/DataQuest/assets/147333547/9aca4c4b-2045-472c-8576-c38033cf567d)
  
- 1.[Python Notes](https://github.com/Ishikakataria06/DataQuest/blob/main/Python%20Notes.ipynb)
- 
- 2.[Python Projects](https://github.com/Ishikakataria06/Basic-Python-Projects)
+ 1.Python Notes : [Python Notes](https://github.com/Ishikakataria06/DataQuest/blob/main/Python%20Notes.ipynb)
+ 2.Python Projects : [Python Projects](https://github.com/Ishikakataria06/Basic-Python-Projects)
  
 
 
