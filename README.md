@@ -14,7 +14,8 @@ Your ultimate guide to navigating the vast landscape of data science! This repos
  1.Python Notes : [Python Notes](https://github.com/Ishikakataria06/DataQuest/blob/main/Python%20Notes.ipynb)
  
  2.Python Projects : [Python Projects](https://github.com/Ishikakataria06/Basic-Python-Projects)
- 
+
+ 3.Python Interview Question : [Interview Questions](https://github.com/Ishikakataria06/DataQuest/blob/main/Interview%20Question.ipynb)
 
 
 
