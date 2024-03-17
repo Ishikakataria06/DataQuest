@@ -17,5 +17,9 @@ Your ultimate guide to navigating the vast landscape of data science! This repos
 
  3.Python Interview Question : [Interview Questions](https://github.com/Ishikakataria06/DataQuest/blob/main/Interview%20Question.ipynb)
 
+ ## Data Extraction and Wrangling using libraries
+ ![blog-cover-4](https://github.com/Ishikakataria06/DataQuest/assets/147333547/cd82f9a3-7712-405c-be01-4f976277c5e5)
+ 1.Numpy Library : [Numpy Notes](https://github.com/Ishikakataria06/DataQuest/blob/main/Numpy%20Notes.ipynb)
+
 
 
