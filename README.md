@@ -21,6 +21,7 @@ Your ultimate guide to navigating the vast landscape of data science! This repos
 ![1692370100574](https://github.com/Ishikakataria06/DataQuest/assets/147333547/493c2615-6e08-41a1-91b4-64bb9cfa66fc)
 
  1.Numpy Library : [Numpy Notes](https://github.com/Ishikakataria06/DataQuest/blob/main/Numpy%20Notes.ipynb)
+ 
  2.Pandas Library : [Pandas Notes](https://github.com/Ishikakataria06/DataQuest/blob/main/Pandas%20Notes.ipynb)
 
 
