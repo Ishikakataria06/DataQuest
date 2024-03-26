@@ -24,5 +24,7 @@ Your ultimate guide to navigating the vast landscape of data science! This repos
  
  2.Pandas Library : [Pandas Notes](https://github.com/Ishikakataria06/DataQuest/blob/main/Pandas%20Notes.ipynb)
 
+ 3.Matplotlib and Seaborn Library : [Matplotlib and Seaborn Notes](https://github.com/Ishikakataria06/DataQuest/blob/main/Matplotlib%20%26%20Seaborn%20Notes.ipynb)
+
 
 
